@@ -1,4 +1,4 @@
-package com.babu.hrm.exception;
+package com.babu.demos.angular.hrm.exception;
 
 import java.util.Date;
 

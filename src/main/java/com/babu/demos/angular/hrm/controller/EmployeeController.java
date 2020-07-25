@@ -1,8 +1,8 @@
-package com.babu.hrm.controller;
+package com.babu.demos.angular.hrm.controller;
 
-import com.babu.hrm.exception.ResourceNotFoundException;
-import com.babu.hrm.model.Employee;
-import com.babu.hrm.repository.EmployeeRepository;
+import com.babu.demos.angular.hrm.exception.ResourceNotFoundException;
+import com.babu.demos.angular.hrm.model.Employee;
+import com.babu.demos.angular.hrm.repository.EmployeeRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

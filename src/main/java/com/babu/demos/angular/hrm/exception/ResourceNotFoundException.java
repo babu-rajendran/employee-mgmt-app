@@ -1,4 +1,4 @@
-package com.babu.hrm.exception;
+package com.babu.demos.angular.hrm.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package com.babu.hrm.model;
+package com.babu.demos.angular.hrm.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
